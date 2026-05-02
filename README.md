@@ -1,23 +1,35 @@
-# Cent's Macro (Linux)
+# 📌 Cent’s Macro
 
-A lightweight TinyTask-style macro recorder and playback tool built for Linux using Python.
+A lightweight **TinyTask-style macro recorder for Linux**, built with Python.
 
-## Features
-- Record mouse + keyboard input
-- Replay macros in loop mode
-- Custom hotkeys (F6–F9 default)
-- Simple GUI interface
+Cent’s Macro lets you record mouse and keyboard input and replay it with simple hotkeys through a clean, minimal GUI.
 
-## Controls (Default)
-- F6 → Start recording
-- F7 → Stop recording
-- F8 → Play loop
-- F9 → Stop playback
+---
 
-## Installation
+## ✨ Features
+- 🎥 Record mouse + keyboard input
+- 🔁 Replay recorded macros
+- 🔄 Loop playback support
+- ⌨️ Custom hotkeys (fully configurable)
+- 🖥️ Lightweight Tkinter-based GUI
+- 💾 Local config saving for keybinds
 
+---
+
+## ⌨️ Default Controls
+
+| Action | Key |
+|--------|-----|
+| Start Recording | F6 |
+| Stop Recording | F7 |
+| Play Loop | F8 |
+| Stop Playback | F9 |
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repository
 ```bash
-git clone https://github.com/yourname/cent-macro-linux.git
-cd cent-macro-linux
-pip install -r requirements.txt
-python3 main.py
+git clone https://github.com/6s6h6/Cent-s-Macro.git
+cd Cent-s-Macro
