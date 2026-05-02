@@ -1,6 +1,6 @@
 {
-  "start_record": "f6",
-  "stop_record": "f7",
-  "play_loop": "f8",
-  "stop_loop": "f9"
+    "start_record": "f6",
+    "stop_record": "f7",
+    "play_loop": "f8",
+    "stop_loop": "f9"
 }
